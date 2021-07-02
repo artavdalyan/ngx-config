@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/fulls1z3/ngx-config/tree/master/packages/@ngx-config/core#readme",
   "peerDependencies": {
-    "@angular/common": ">=9.0.0 <10.0.0",
-    "@angular/core": ">=9.0.0 <10.0.0",
-    "@angular/platform-browser-dynamic": ">=9.0.0 <10.0.0"
+    "@angular/common": ">=9.0.0 <12.1.0",
+    "@angular/core": ">=9.0.0 <12.1.0",
+    "@angular/platform-browser-dynamic": ">=9.0.0 <10.1.0"
   },
   "publishConfig": {
     "access": "public",
